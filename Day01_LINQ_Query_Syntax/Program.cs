@@ -1,6 +1,6 @@
 ﻿using System;   
 using System.Collections.Generic;
-
+using System.Linq;
 
  class Program {
     private static void Main(string[] args) {
@@ -18,7 +18,7 @@ using System.Collections.Generic;
         Console.WriteLine("#------- LINQ -------#");
 
         // Step 1: Getting Data Source
-        List<int> numbersLinq = new List<int>() { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 };
+        List<int> numbersLinq = new List<int>() {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 };
 
         // Step 2: Writing Query
         IEnumerable<int> evenQuery = from num in numbersLinq   // Part 1: Data Source
@@ -30,7 +30,5 @@ using System.Collections.Generic;
         }
 
         Console.ReadLine();
-
-
     }
 }

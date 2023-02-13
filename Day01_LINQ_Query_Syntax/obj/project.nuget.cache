@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KvY8Ot6E3zGKSdGAgbrli7yH7lvLCfcHi8GtNaOv1P582IRN3IC1NshRqEJKPoNRGzuDAi0zIZ9tdL+V17B9qA==",
+  "dgSpecHash": "An5H6gLE8u9/o7zRsEx+qYBhYck1NkH1e/mDQPhXBNfW1i6a6UDRYmDIe7+YyZXk2buUPt2AnYt0ssiTwlyK0Q==",
   "success": true,
-  "projectFilePath": "T:\\Learning Code\\LINQ_Funamentals\\Day01_LINQ_Query_Syntax\\Day01_LINQ_Query_Syntax.csproj",
+  "projectFilePath": "T:\\Learning Code\\LINQ_Funamentals_CS\\Day01_LINQ_Query_Syntax\\Day01_LINQ_Query_Syntax.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

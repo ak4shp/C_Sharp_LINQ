@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "T:\\Learning Code\\LINQ_Funamentals\\Day01_LINQ_Query_Syntax\\Day01_LINQ_Query_Syntax.csproj": {}
+    "T:\\Learning Code\\LINQ_Funamentals_CS\\Day01_LINQ_Query_Syntax\\Day01_LINQ_Query_Syntax.csproj": {}
   },
   "projects": {
-    "T:\\Learning Code\\LINQ_Funamentals\\Day01_LINQ_Query_Syntax\\Day01_LINQ_Query_Syntax.csproj": {
+    "T:\\Learning Code\\LINQ_Funamentals_CS\\Day01_LINQ_Query_Syntax\\Day01_LINQ_Query_Syntax.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "T:\\Learning Code\\LINQ_Funamentals\\Day01_LINQ_Query_Syntax\\Day01_LINQ_Query_Syntax.csproj",
+        "projectUniqueName": "T:\\Learning Code\\LINQ_Funamentals_CS\\Day01_LINQ_Query_Syntax\\Day01_LINQ_Query_Syntax.csproj",
         "projectName": "Day01_LINQ_Query_Syntax",
-        "projectPath": "T:\\Learning Code\\LINQ_Funamentals\\Day01_LINQ_Query_Syntax\\Day01_LINQ_Query_Syntax.csproj",
+        "projectPath": "T:\\Learning Code\\LINQ_Funamentals_CS\\Day01_LINQ_Query_Syntax\\Day01_LINQ_Query_Syntax.csproj",
         "packagesPath": "C:\\Users\\AAKASH\\.nuget\\packages\\",
-        "outputPath": "T:\\Learning Code\\LINQ_Funamentals\\Day01_LINQ_Query_Syntax\\obj\\",
+        "outputPath": "T:\\Learning Code\\LINQ_Funamentals_CS\\Day01_LINQ_Query_Syntax\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AAKASH\\AppData\\Roaming\\NuGet\\NuGet.Config",
